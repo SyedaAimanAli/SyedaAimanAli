@@ -1,8 +1,10 @@
-Hi, I’m Syeda Aiman Ali, a student focused on Artificial Intelligence and Python development.
+Hi, I’m Syeda Aiman Ali — a student focused on Artificial Intelligence and Python development.
 
-I’m currently learning machine learning and working on small AI projects to strengthen my practical skills. My interests include computer vision, deep learning, and building intelligent systems using Python.
+I’m currently building my skills in Machine Learning, Deep Learning, and Computer Vision through hands-on learning and small projects.
+My work mainly includes experimenting with models, understanding core AI concepts, and applying them in practical use cases like image classification and basic AI systems.
 
-I enjoy experimenting with models, improving my understanding of algorithms, and applying concepts through hands-on projects.
+I’m actively improving my problem-solving skills and working toward becoming a strong AI developer.
+Always open to learning, collaborating, and exploring new ideas in AI.
 <!--
 **SyedaAimanAli/SyedaAimanAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
